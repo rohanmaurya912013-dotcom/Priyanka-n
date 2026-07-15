@@ -17,3 +17,4 @@ document.getElementById('musicToggle').addEventListener('click', function() {
     this.textContent = 'Play Music';
   }
 }); */
+
